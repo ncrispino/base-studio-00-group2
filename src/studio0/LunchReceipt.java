@@ -8,7 +8,7 @@ public class LunchReceipt {
 		double drinkPrice = 1.25;
 		double chipsPrice = 1.00;
 		double guacPrice = 2.50;
-		
+		//this is a test of the intercom system
 		double subtotal = burritoPrice + drinkPrice + chipsPrice + guacPrice;
 		double taxRate = 0.04225;
 		double taxAmount = subtotal * taxRate;
